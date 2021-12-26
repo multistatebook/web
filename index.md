@@ -1,4 +1,4 @@
-## Models for Multi-state Survival Data: Rates, Risks, and Pseudo-observations
+## Models for Multi-state Survival Data: Rates, Risks, and Pseudo-values
 
 You can use the [editor on GitHub](https://github.com/multistatebook/web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
